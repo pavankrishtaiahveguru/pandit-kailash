@@ -98,11 +98,6 @@ export const metadata = {
       "max-video-preview": -1,
     },
   },
-
-  icons: {
-    icon: "/favicon.ico",
-    apple: "/apple-touch-icon.png",
-  },
 };
 
 export const viewport = {
