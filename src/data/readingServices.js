@@ -7,7 +7,7 @@ export const readingServices = {
     eyebrow: "INTUITIVE GUIDANCE",
     shortDescription:
       "A calm, private psychic consultation focused on the questions, choices and personal circumstances you would like to explore.",
-    image: "/images/services/psychic-reading.jpg",
+    image: "/images/services/psychic-reading-consultation.png",
     imageAlt: "Private psychic consultation",
     icon: "Sparkles",
     category: "Personal Guidance",
@@ -32,7 +32,7 @@ export const readingServices = {
     eyebrow: "RELATIONSHIP GUIDANCE",
     shortDescription:
       "A private, personal consultation exploring questions about relationships, emotions and compatibility through astrology and intuitive guidance.",
-    image: "/images/services/love-relationship.jpg",
+    image: "/images/services/relationship-reading.jpg",
     imageAlt: "Couple discussing relationship questions",
     icon: "Heart",
     category: "Love & Relationships",
@@ -57,7 +57,7 @@ export const readingServices = {
     eyebrow: "TRADITIONAL PALM ANALYSIS",
     shortDescription:
       "A personal palm reading that considers the major lines and patterns of your hand in the context of the questions you bring.",
-    image: "/images/services/palm-reading.jpeg",
+    image: "/images/services/palm-reading.jpg",
     imageAlt: "Palm reading consultation",
     icon: "Hand",
     category: "Palmistry",
@@ -82,7 +82,7 @@ export const readingServices = {
     eyebrow: "PERSONAL VEDIC CHART",
     shortDescription:
       "A personalised reading of your Vedic horoscope or birth chart, explained in clear language and related to the questions you want to discuss.",
-    image: "/images/services/horoscope-birth-chart.jpeg",
+    image: "/images/services/birth-chart.jpg",
     imageAlt: "Traditional Vedic birth chart consultation",
     icon: "Stars",
     category: "Astrology",
@@ -107,7 +107,7 @@ export const readingServices = {
     eyebrow: "MARRIAGE ASTROLOGY",
     shortDescription:
       "A considered Vedic astrology reading for people seeking guidance around marriage, long-term compatibility and partnership decisions.",
-    image: "/images/services/marriage-compatibility.jpeg",
+    image: "/images/services/marriage-reading.jpg",
     imageAlt: "Couple discussing marriage and compatibility",
     icon: "Gem",
     category: "Relationships",
@@ -132,7 +132,7 @@ export const readingServices = {
     eyebrow: "CAREER GUIDANCE",
     shortDescription:
       "Explore career direction, changing roles, professional choices and the questions that matter to your working life.",
-    image: "/images/services/career-life.jpg",
+    image: "/images/services/career-business.jpg",
     imageAlt: "Professional reflecting on career decisions",
     icon: "BriefcaseBusiness",
     category: "Career & Life",

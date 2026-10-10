@@ -11,7 +11,7 @@ const services = [
     title: "Love & Relationship Reading",
     description:
       "Personal guidance around relationships, communication, emotions and compatibility.",
-    image: "/images/services/love-relationship.jpg",
+    image: "/images/services/relationship-reading.jpg",
     href: `/readings/${readingServices["love-relationships"].slug}`,
   },
 
@@ -19,14 +19,14 @@ const services = [
     title: "Horoscope & Birth Chart",
     description:
       "Personalised interpretation based on your birth details and traditional astrology.",
-    image: "/images/services/horoscope-birth-chart.jpeg",
+    image: "/images/services/birth-chart.jpg",
     href: `/readings/${readingServices["horoscope-birth-chart"].slug}`,
   },
   {
     title: "Career & Life Reading",
     description:
       "Gain clarity around career direction, opportunities, decisions and life changes.",
-    image: "/images/services/career-life.jpg",
+    image: "/images/services/career-business.jpg",
     href: `/readings/${readingServices["career-life"].slug}`,
   },
 ];
@@ -110,7 +110,7 @@ export default function Services() {
             {/* Featured Image */}
             <div className="relative min-h-[320px] overflow-hidden sm:min-h-[400px] lg:min-h-[500px]">
               <Image
-                src="/images/home/services/vedic-astrology.jpg"
+                src="/images/services/spiritual-guidance.jpg"
                 alt="Vedic Astrology Reading"
                 fill
                 priority={false}
